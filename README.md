@@ -10,7 +10,7 @@
 
 #### Edit newly created profile
 
-<code> lxc profile edit production
+<code> lxc profile edit production </code>
 
 #### Show existing profile
 
