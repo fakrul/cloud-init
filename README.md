@@ -11,7 +11,7 @@
 #### Edit newly created profile
 
 <code> lxc profile edit production
-  
+
 #### Show existing profile
 
 <code> lxc profile show production </code>
